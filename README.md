@@ -1,5 +1,5 @@
-# magento2-nginx-configuration
-Configuration for Magento 2 on Nginx
+# NGINX Configuration
+Configuration for Magento 2 / Laravel / Wordpress on Nginx
 
 ## How to setup?
 
